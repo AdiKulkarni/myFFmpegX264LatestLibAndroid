@@ -1,9 +1,10 @@
-Building
+### **Building** ###
 
 Ensure NDK_BASE env variable is set to the location of your NDK, example:
 
 export NDK_BASE=/path/to/android-ndk
-Then execute:
+
+### Then execute: ###
 
 git submodule update --init --recursive
 cd external/android-ffmpeg
