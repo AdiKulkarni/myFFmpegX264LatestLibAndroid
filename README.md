@@ -20,3 +20,7 @@ cd ~/git/myFFmpegX264LatestLibAndroid/myFFmpegX264LatestLibAndroid/jni
 ./configure_make_everything.sh
 
 After compilation, build the project in Eclipse.
+
+##Developer Contact
+Website: http://www.comp.nus.edu.sg/~adityak
+Email: adityak@comp.nus.edu.sg
