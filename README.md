@@ -5,7 +5,7 @@ FFmpeg library with libx264 for android.
 This project uses SWIG framework for development of JNI interface.
 
 ##Features
-This project provides a nice and simple JNI interface to use ffmpeg based h264 software encoder on android devices. This encoder is highly configurable that existing android API's like MediaCodec or MediaRecorder.
+This project provides a nice and simple JNI interface to use ffmpeg based h264 software encoder on android devices. This encoder is highly configurable unlike existing android API's like MediaCodec or MediaRecorder.
 
 ##Building
 Ensure NDK_BASE env variable is set to the location of your NDK, example:
