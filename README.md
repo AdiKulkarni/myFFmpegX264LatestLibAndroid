@@ -22,5 +22,5 @@ cd ~/git/myFFmpegX264LatestLibAndroid/myFFmpegX264LatestLibAndroid/jni
 After compilation, build the project in Eclipse.
 
 ##Developer Contact
-Website: http://www.comp.nus.edu.sg/~adityak
-Email: adityak@comp.nus.edu.sg
+Website: https://www.linkedin.com/in/aditya-kulkarni-43514a136/
+Email: aditya@carenx.com
